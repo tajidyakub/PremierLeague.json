@@ -5,7 +5,7 @@ The Data in the JSON format aims to contain Premier League data for the season 2
 
 Data includes:
 
--> Fixtures and Results
--> Clubs' Manager and Players
--> Goal Scored
--> Assists Made
+- Fixtures and Results
+- Clubs' Manager and Players
+- Goal Scored
+- Assists Made
