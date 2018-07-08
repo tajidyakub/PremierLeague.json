@@ -1,0 +1,13 @@
+{
+  "competition": "English Premier League",
+  "location": "United Kingdom",
+  "season": "2018-19",
+  "starting_date": "11-August-2018",
+  "ending_date": "12-May-2019",
+  "total_matchdays": 38,
+  "total_matches": 380,
+  "number_of_participating_clubs": 20,
+  "participating_teams": ["Arsenal", "AFC Bournemouth", "Brighton and Hove Albion", "Burnley", "Cardiff City", "Chelsea", "Crystal Palace", "Everton", "Fulham", "Huddersfield Town", "Leicester City", "Liverpool", "Manchester City", "Manchester United", "Newcastle United", "Southampton", "Tottenham Hotspur", "Watford", "West Ham United", "Wolverhampton Wanderers"],
+  "stadiums": ["Emirates Stadium", "Vitality Stadium", "Amex Stadium", "Turf Moor", "Cardiff City Stadium", "Stamford Bridge", "Selhurst Park", "Goodison Park", "Craven Cottage", "John Smith's Stadium", "King Power Stadium", "Anfield", "Etihad Stadium", "Old Trafford", "St. James' Park", "St. Mary's Stadium", "Wembley Stadium", "Vicarage Road", "London Stadium", "Molineux Stadium"],
+  "teams_codes": ["ARS", "BOU", "BHA", "BUR", "CAR", "CHE", "CRY", "EVE", "FUL", "HUD", "LEI", "LIV", "MCI", "MUN", "NEW", "SOU", "TOT", "WAT", "WHU", "WOL"]
+}
