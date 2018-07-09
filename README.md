@@ -16,10 +16,10 @@ The Data in the JSON format aims to contain Premier League data for the season 2
 - [ ] Complete Players data of all Clubs
 
 ### Contributions
-> The repo is open for contribution. You can help adding Fixtures and Players Data
+The repo is open for contribution. You can help adding Fixtures and Players Data
 
-** All times are in Local UK times _UTC +1_ BST / _UTC +0_ GMT ** 
+**All times are in Local UK times** _UTC +1_ BST / _UTC +0_ GMT 
 
 ### Resource
 
-** All information related to players and managers shall be obtained from [Footbal Squads](http://www.footballsquads.co.uk/) as per availability **
+**All information related to players and managers shall be obtained from [Footbal Squads](http://www.footballsquads.co.uk/) as per availability**
