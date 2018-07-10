@@ -22,6 +22,7 @@ The Data in the JSON format aims to contain Premier League data for the season 2
 ### Players data
 
 - [x] Arsenal
+- [x] Huddersfield Town
 
 ### Contributions
 The repository is open for contribution. You can help adding Fixtures and Players Data
