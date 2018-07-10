@@ -15,11 +15,23 @@ The Data in the JSON format aims to contain Premier League data for the season 2
 - [ ] Complete Fixtures of the season
 - [ ] Complete Players data of all Clubs
 
-### Contributions
-> The repo is open for contribution. You can help adding Fixtures and Players Data
+### Matchdays Fixtures
 
-** All times are in Local UK times _UTC +1_ BST / _UTC +0_ GMT ** 
+- [x] Round 1
+
+### Players data
+
+- [x] Arsenal
+
+### Contributions
+The repository is open for contribution. You can help adding Fixtures and Players Data
+
+All times are in Local UK times _UTC +1_ BST / _UTC +0_ GMT
 
 ### Resource
 
-** All information related to players and managers shall be obtained from [Footbal Squads](http://www.footballsquads.co.uk/) as per availability **
+All information related to players and managers shall be obtained from [FootballSquads](http://www.footballsquads.co.uk/) as per availability
+
+### Fetch data.json with proper Content-Type header
+Use this url to fetch latest commit on data.json in the proper JSON Content-Type header:
+https://gitcdn.xyz/repo/drraq/PremierLeague18-19.json/master/data.json
