@@ -1,7 +1,11 @@
-# PremierLeague18-19.json
-Premier League season 2018-19 data in JSON format.
+# PremierLeague.json
+Premier League data in JSON format.
 
-The Data in the JSON format aims to contain Premier League data for the season 2018-19.
+The Data in the JSON format aims to contain Premier League data.
+
+## Seasons
+
+- [x] Season 2018-19
 
 ### Data includes:
 
@@ -23,11 +27,12 @@ The Data in the JSON format aims to contain Premier League data for the season 2
 
 - [x] Arsenal
 - [x] Huddersfield Town
+- [x] Southampton
 
 ### Contributions
 The repository is open for contribution. You can help adding Fixtures and Players Data
 
-All times are in Local UK times _UTC +1_ BST / _UTC +0_ GMT
+All times are in Local UK times UTC +1 BST / UTC +0 GMT
 
 ### Resource
 
@@ -35,4 +40,7 @@ All information related to players and managers shall be obtained from [Football
 
 ### Fetch data.json with proper Content-Type header
 Use this url to fetch latest commit on data.json in the proper JSON Content-Type header:
-https://gitcdn.xyz/repo/drraq/PremierLeague18-19.json/master/data.json
+https://gitcdn.xyz/repo/drraq/PremierLeague.json/master/data.json
+
+Use this link for raw data in plain text:
+https://raw.githubusercontent.com/drraq/PremierLeague.json/master/data.json
