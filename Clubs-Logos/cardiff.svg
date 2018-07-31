@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 90.000538 90.000537"
+   height="25.400002mm"
+   width="25.400002mm"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cardiff.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     id="namedview90"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.8376126"
+     inkscape:cx="62.75312"
+     inkscape:cy="50.161685"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">/&gt;</defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g3571"
+     transform="matrix(0.78190028,0.13787383,-0.13787383,0.78190028,432.26923,-24.982604)"
+     style="fill:#3771c8">
+    <path
+       id="path3483"
+       d="m -25.887,156.96 a 41.957,32.735 20 0 0 -31.521,19.574 41.957,32.735 20 0 0 -1.3027,5.5527 9.7405,6.5318 34.823 0 0 -6.0117,-1.3301 l -0.002,0 c -0.01798,-0.007 -0.03222,-0.0215 -0.05273,-0.0215 l -5.9277,0 a 1.951,1.8936 0 0 0 -0.44922,-0.0527 1.951,1.8936 0 0 0 -1.9512,1.8926 1.951,1.8936 0 0 0 1.9512,1.8945 1.951,1.8936 0 0 0 0.2207,-0.0137 l 0.002,0 1.2422,0 a 1.6067,2.3527 0 0 0 -0.08789,0.75976 1.6067,2.3527 0 0 0 0.24219,1.2344 9.7405,6.5318 34.823 0 0 5.6602,7.7656 9.7405,6.5318 34.823 0 0 6.9395,1.9141 41.957,32.735 20 0 0 27.758,25.516 41.957,32.735 20 0 0 8.6328,2.3262 29.621,16.004 23.093 0 1 -8.1289,-19.064 29.621,16.004 23.093 0 1 34.1,-2.3633 29.621,16.004 23.093 0 1 13.051,8.3887 41.957,32.735 20 0 0 0.27539,-0.45703 c -4.995,-4.45 -9.9573,-11.05 -16.68,-16.7 7.922,-6.73 12.414,-11.42 15.729,-14.44 a 41.957,32.735 20 0 0 -0.15234,-0.26367 28.586,16.598 0 0 1 -25.025,8.582 28.586,16.598 0 0 1 -28.586,-16.6 28.586,16.598 0 0 1 13.404,-14.055 41.957,32.735 20 0 0 -3.3281,-0.043 z m -22.475,9.8047 c -2.4369,3.2949 -3.31,7.6786 -3.5312,11.172 -0.22259,3.5144 0.21156,6.2095 0.47461,6.125 l -3.207,0.19336 c 0.26342,-0.0846 0.36416,-2.9343 1.1406,-6.541 0.7801,-3.6237 2.2311,-7.9456 5.123,-10.949 z m -21.883,14.594 c 1.5029,-0.056 7.5385,0.0977 7.9258,6.166 l -5.3105,0.1582 c -1.4272,-1.0847 -0.63685,-4.1718 -2.9512,-6.3047 0,0 0.12123,-0.0115 0.33594,-0.0195 z m 19.537,15.377 c -0.19481,0.007 0.16834,1.8993 1.1641,4.1758 0.98975,2.2628 2.6262,4.9581 5.0371,6.5547 -2.6424,-1.2936 -4.6473,-3.8071 -6.0391,-6.0215 -1.3853,-2.2041 -2.1409,-4.07 -2.3359,-4.0625 l 2.1738,-0.64648 z"
+       transform="translate(-437.91,-19.12)"
+       inkscape:connector-curvature="0" />
+    <circle
+       id="path3569"
+       cx="-505.45999"
+       cy="163.92"
+       r="0.68858999" />
+  </g>
+  <circle
+     id="path3575"
+     cy="45.000267"
+     cx="45.000271"
+     r="44.625267"
+     style="fill:none;stroke:#3771c8;stroke-width:0.75000447;stroke-linecap:round;stroke-linejoin:round" />
+</svg>

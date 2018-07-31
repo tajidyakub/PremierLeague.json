@@ -28,6 +28,16 @@ The Data in the JSON format aims to contain Premier League data.
 - [x] Arsenal
 - [x] Huddersfield Town
 - [x] Southampton
+- [x] Bournemouth
+
+### Flat Clubs' Logos
+
+- [x] Arsenal
+- [x] Bournemouth
+- [x] Brighton & Hove Albion
+- [x] Burnley
+- [x] Cardiff City
+- [x] Chelsea
 
 ### Contributions
 The repository is open for contribution. You can help adding Fixtures and Players Data
