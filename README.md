@@ -1,17 +1,17 @@
 # PremierLeague.json
 Premier League data in JSON format.
 
-The Data in the JSON format aims to contain Premier League data.
+The File data.json contains the Premier League data for the season 2018-19.
 
 ## Seasons
 
-- [x] Season 2018-19
+- [x] 2018-2019
 
 ### Data includes:
 
 - Fixtures and Results
 - Clubs' Manager and Players
-- Goal Scored
+- Goals Scored
 - Assists Made
 
 ## Task Lists
@@ -29,6 +29,7 @@ The Data in the JSON format aims to contain Premier League data.
 - [x] Huddersfield Town
 - [x] Southampton
 - [x] Bournemouth
+- [x] Burnley
 
 ### Flat Clubs' Logos
 
@@ -40,13 +41,12 @@ The Data in the JSON format aims to contain Premier League data.
 - [x] Chelsea
 
 ### Contributions
-The repository is open for contribution. You can help adding Fixtures and Players Data
-
-All times are in Local UK times UTC +1 BST / UTC +0 GMT
+The repository is open for contribution.
+All times are in Local UK times UTC +1 BST / UTC +0 GMT.
 
 ### Resource
 
-All information related to players and managers shall be obtained from [FootballSquads](http://www.footballsquads.co.uk/) as per availability
+All information related to players and managers shall be obtained from [FootballSquads](http://www.footballsquads.co.uk/) as per availability.
 
 ### Fetch data.json with proper Content-Type header
 Use this url to fetch latest commit on data.json in the proper JSON Content-Type header:
