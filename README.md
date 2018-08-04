@@ -1,11 +1,11 @@
 # PremierLeague.json
 Premier League data in JSON format.
 
-The File data.json contains the Premier League data for the season 2018-19.
+The file **data.json** contains the Premier League data for the season 2018-19.
 
 ## Seasons
 
-- [x] 2018-2019
+- [x] August 2018 - May 2019
 
 ### Data includes:
 
@@ -23,7 +23,7 @@ The File data.json contains the Premier League data for the season 2018-19.
 
 - [x] Round 1
 
-### Players data
+### Players Data
 
 - [x] Arsenal
 - [x] Huddersfield Town
@@ -31,7 +31,8 @@ The File data.json contains the Premier League data for the season 2018-19.
 - [x] Bournemouth
 - [x] Burnley
 
-### Flat Clubs' Logos
+### Flat Premier League Clubs' Logos
+A very simplistic approach has been maintained for the creation of logos of participating clubs using Inkscape Vector Graphics Editor. All files are in optimized SVG format suitable for direct inclusion in web development.
 
 - [x] Arsenal
 - [x] Bournemouth
@@ -39,6 +40,9 @@ The File data.json contains the Premier League data for the season 2018-19.
 - [x] Burnley
 - [x] Cardiff City
 - [x] Chelsea
+- [x] Crystal Palace
+- [x] Everton
+- [x] Fulham
 
 ### Contributions
 The repository is open for contribution.
