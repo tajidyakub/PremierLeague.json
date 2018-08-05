@@ -16,7 +16,7 @@ The following table contains names of variables, data types and their descriptio
 | `stadiums`                            | _Array of Strings_ |       Names of respective stadiums      |
 | `team_codes`                          | _Array of Strings_ | Three character code of respective club |
 | [`clubs`](#clubs)                     | _Array of Objects_ |        Detailed data of each Club       |
-| [`season_fixtures`](#season-fixtures) | _Array of Objects_ |     Complete details of each fixture    |
+| [`season_fixtures`](#season_fixtures) | _Array of Objects_ |     Complete details of each fixture    |
 | [`players`](#players)                 | _Array of Objects_ |       Detailed data of each Player      |
 
 #### clubs
@@ -62,7 +62,7 @@ The following table contains names of variables, data types and their descriptio
 | Property Name           |      Data Type     |       Description       |
 | ----------------------- | :----------------: | :---------------------: |
 | `matchday`              |      _Integer_     |  Match Day / Match Week |
-| ['fixtures'](#fixtures) | _Array of Objects_ | Detail of every Fixture |
+| [`fixtures`](#fixtures) | _Array of Objects_ | Detail of every Fixture |
 
 #### players
 
