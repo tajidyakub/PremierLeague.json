@@ -223,7 +223,7 @@
   ],
   "season_fixtures": [{
     "matchday": 1,
-    "fixutes": [{
+    "fixtures": [{
         "id": 1001,
         "home_team": "Manchester United",
         "home_team_code": "MUN",
