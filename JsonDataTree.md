@@ -87,19 +87,21 @@ The following table contains names of variables, data types and their descriptio
 
 ##### fixtures
 
-| Property Name     | Data Type |             Description            |
-| ----------------- | :-------: | :--------------------------------: |
-| `id`              | _Integer_ |              Unique ID             |
-| `home_team`       |  _String_ |  Name of Home Team of the Fixture  |
-| `home_team_code`  |  _String_ | Three letter code of the Home Team |
-| `away_team`       |  _String_ |  Name of Away Team of the Fixture  |
-| `away_team_code`  |  _String_ | Three letter code of the Away Team |
-| `fixture_code`    |  _String_ |   Six letter code of the Fixture   |
-| `venue`           |  _String_ |        Venue of the Fixture        |
-| `date`            |  _String_ |         Date (_DD-MM-YYYY_)        |
-| `attendance`      | _Integer_ |          Total Attendance          |
-| `half_time_score` |  _String_ |         Score at Half Time         |
-| `full_time_score` |  _String_ |         Score at Full Time         |
-| `home_team_goals` | _Integer_ |    Number of Goals by Home Team    |
-| `away_team_goals` | _Integer_ |    Number of Goals by Away Team    |
-| `status`          |  _String_ |       Fixture Current Status       |
+| Property Name       |      Data Type     |                    Description                   |
+| ------------------- | :----------------: | :----------------------------------------------: |
+| `id`                |      _Integer_     |                     Unique ID                    |
+| `home_team`         |      _String_      |         Name of Home Team of the Fixture         |
+| `home_team_code`    |      _String_      |        Three letter code of the Home Team        |
+| `away_team`         |      _String_      |         Name of Away Team of the Fixture         |
+| `away_team_code`    |      _String_      |        Three letter code of the Away Team        |
+| `fixture_code`      |      _String_      |          Six letter code of the Fixture          |
+| `venue`             |      _String_      |               Venue of the Fixture               |
+| `date`              |      _String_      |                Date (_DD-MM-YYYY_)               |
+| `attendance`        |      _Integer_     |                 Total Attendance                 |
+| `half_time_score`   |      _String_      |                Score at Half Time                |
+| `full_time_score`   |      _String_      |                Score at Full Time                |
+| `home_team_goals`   |      _Integer_     |           Number of Goals by Home Team           |
+| `away_team_goals`   |      _Integer_     |           Number of Goals by Away Team           |
+| `home_team_scorers` | _Array of Strings_ | List of goals scorers for home team with minutes |
+| `away_team_scorers` | _Array of Strings_ | List of goals scorers for away team with minutes |
+| `status`            |      _String_      |              Fixture Current Status              |
