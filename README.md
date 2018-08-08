@@ -19,9 +19,11 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 - [ ] Complete Fixtures of the season
 - [ ] Complete Players data of all Clubs
 
-### Matchdays Fixtures
+### Matchday Fixtures
 
 - [x] Round 1
+- [x] Round 2
+- [x] Round 3
 
 ### Players Data
 
@@ -31,6 +33,7 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 - [x] Bournemouth
 - [x] Burnley
 - [x] Everton
+- [x] Brighton and Hove Albion
 
 ### Flat Premier League Clubs' Logos
 A very simplistic approach has been maintained for the creation of logos of participating clubs using Inkscape Vector Graphics Editor. All files are in optimized SVG format suitable for direct inclusion in web development.
