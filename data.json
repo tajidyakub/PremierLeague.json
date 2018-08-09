@@ -223,6 +223,7 @@
   ],
   "season_fixtures": [{
       "matchday": 1,
+      "upcoming": true,
       "fixtures": [{
           "id": 1001,
           "home_team": "Manchester United",
@@ -427,6 +428,7 @@
     },
     {
       "matchday": 2,
+      "upcoming": false,
       "fixtures": [{
           "id": 1011,
           "home_team": "Cardiff City",
@@ -631,6 +633,7 @@
     },
     {
       "matchday": 3,
+      "upcoming": false,
       "fixtures": [{
           "id": 1021,
           "home_team": "Wolverhampton Wanderers",
@@ -1361,24 +1364,6 @@
       "id": 3103,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
-      "previous_club": "Fulham",
-      "first_name": "Scott",
-      "middle_name": null,
-      "last_name": "Malone",
-      "jersey_name": "Malone",
-      "jersey_number": 3,
-      "nationality": "England",
-      "position": "Defender",
-      "appearances": null,
-      "substitute_appearances": null,
-      "goals_scored": null,
-      "own_goals": null,
-      "assists_made": null
-    },
-    {
-      "id": 3104,
-      "club_code": "HUD",
-      "current_club": "Huddersfield Town",
       "previous_club": "Monaco",
       "first_name": "Terence",
       "middle_name": null,
@@ -1394,7 +1379,7 @@
       "assists_made": null
     },
     {
-      "id": 3105,
+      "id": 3104,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Watford",
@@ -1412,7 +1397,7 @@
       "assists_made": null
     },
     {
-      "id": 3106,
+      "id": 3105,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "FC Groningen",
@@ -1430,7 +1415,7 @@
       "assists_made": null
     },
     {
-      "id": 3107,
+      "id": 3106,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Esbjerg",
@@ -1448,7 +1433,7 @@
       "assists_made": null
     },
     {
-      "id": 3108,
+      "id": 3107,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Ingolstadt",
@@ -1466,7 +1451,7 @@
       "assists_made": null
     },
     {
-      "id": 3109,
+      "id": 3108,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Manchester City",
@@ -1484,7 +1469,7 @@
       "assists_made": null
     },
     {
-      "id": 3110,
+      "id": 3109,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Monaco",
@@ -1502,7 +1487,7 @@
       "assists_made": null
     },
     {
-      "id": 3111,
+      "id": 3110,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Leicester City",
@@ -1520,7 +1505,7 @@
       "assists_made": null
     },
     {
-      "id": 3112,
+      "id": 3111,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Stoke City",
@@ -1538,7 +1523,7 @@
       "assists_made": null
     },
     {
-      "id": 3113,
+      "id": 3112,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Kaiserslautern",
@@ -1556,7 +1541,7 @@
       "assists_made": null
     },
     {
-      "id": 3114,
+      "id": 3113,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Wolverhampton Wanderers",
@@ -1574,7 +1559,7 @@
       "assists_made": null
     },
     {
-      "id": 3115,
+      "id": 3114,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Reading",
@@ -1592,7 +1577,7 @@
       "assists_made": null
     },
     {
-      "id": 3116,
+      "id": 3115,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "FC Porto",
@@ -1610,7 +1595,7 @@
       "assists_made": null
     },
     {
-      "id": 3117,
+      "id": 3116,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Norwich City",
@@ -1628,7 +1613,7 @@
       "assists_made": null
     },
     {
-      "id": 3118,
+      "id": 3117,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Union Berlin",
@@ -1646,7 +1631,7 @@
       "assists_made": null
     },
     {
-      "id": 3119,
+      "id": 3118,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Montpellier",
@@ -1664,7 +1649,7 @@
       "assists_made": null
     },
     {
-      "id": 3120,
+      "id": 3119,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "FC København",
@@ -1682,7 +1667,7 @@
       "assists_made": null
     },
     {
-      "id": 3121,
+      "id": 3120,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "1860 Munich",
@@ -1700,7 +1685,7 @@
       "assists_made": null
     },
     {
-      "id": 3122,
+      "id": 3121,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Borussia Dortmund",
@@ -1718,7 +1703,7 @@
       "assists_made": null
     },
     {
-      "id": 3123,
+      "id": 3122,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Nürnberg",
@@ -1736,7 +1721,7 @@
       "assists_made": null
     },
     {
-      "id": 3124,
+      "id": 3123,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": null,
@@ -1754,7 +1739,7 @@
       "assists_made": null
     },
     {
-      "id": 3125,
+      "id": 3124,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Ingolstadt",
@@ -1772,7 +1757,7 @@
       "assists_made": null
     },
     {
-      "id": 3126,
+      "id": 3125,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Borussia Dortmund",
@@ -1790,7 +1775,7 @@
       "assists_made": null
     },
     {
-      "id": 3127,
+      "id": 3126,
       "club_code": "HUD",
       "current_club": "Huddersfield Town",
       "previous_club": "Dynamo Dresden",
@@ -2585,24 +2570,6 @@
       "id": 3314,
       "club_code": "BOU",
       "current_club": "Bournemouth",
-      "previous_club": "Liverpool",
-      "first_name": "Brad",
-      "middle_name": null,
-      "last_name": "Smith",
-      "jersey_name": "B.Smith",
-      "jersey_number": 14,
-      "nationality": "Australia",
-      "position": "Defender",
-      "appearances": null,
-      "substitute_appearances": null,
-      "goals_scored": null,
-      "own_goals": null,
-      "assists_made": null
-    },
-    {
-      "id": 3315,
-      "club_code": "BOU",
-      "current_club": "Bournemouth",
       "previous_club": "Tottenham Hotspur",
       "first_name": "Adam",
       "middle_name": null,
@@ -2618,7 +2585,7 @@
       "assists_made": null
     },
     {
-      "id": 3316,
+      "id": 3315,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Leeds United",
@@ -2636,7 +2603,7 @@
       "assists_made": null
     },
     {
-      "id": 3317,
+      "id": 3316,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Blackburn Rovers",
@@ -2654,7 +2621,7 @@
       "assists_made": null
     },
     {
-      "id": 3318,
+      "id": 3317,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Sunderland",
@@ -2672,7 +2639,7 @@
       "assists_made": null
     },
     {
-      "id": 3319,
+      "id": 3318,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Burnley",
@@ -2690,7 +2657,7 @@
       "assists_made": null
     },
     {
-      "id": 3320,
+      "id": 3319,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Sheffield United",
@@ -2708,7 +2675,7 @@
       "assists_made": null
     },
     {
-      "id": 3321,
+      "id": 3320,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Leganés",
@@ -2726,7 +2693,7 @@
       "assists_made": null
     },
     {
-      "id": 3322,
+      "id": 3321,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Fulham",
@@ -2744,7 +2711,7 @@
       "assists_made": null
     },
     {
-      "id": 3323,
+      "id": 3322,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Aberdeen",
@@ -2762,7 +2729,7 @@
       "assists_made": null
     },
     {
-      "id": 3324,
+      "id": 3323,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -2780,7 +2747,7 @@
       "assists_made": null
     },
     {
-      "id": 3325,
+      "id": 3324,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Ipswich Town",
@@ -2798,7 +2765,7 @@
       "assists_made": null
     },
     {
-      "id": 3326,
+      "id": 3325,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Chelsea",
@@ -2816,7 +2783,7 @@
       "assists_made": null
     },
     {
-      "id": 3327,
+      "id": 3326,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -2834,7 +2801,7 @@
       "assists_made": null
     },
     {
-      "id": 3328,
+      "id": 3327,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Watford",
@@ -2852,7 +2819,7 @@
       "assists_made": null
     },
     {
-      "id": 3329,
+      "id": 3328,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -2870,7 +2837,7 @@
       "assists_made": null
     },
     {
-      "id": 3330,
+      "id": 3329,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Shamrock Rovers",
@@ -2888,7 +2855,7 @@
       "assists_made": null
     },
     {
-      "id": 3331,
+      "id": 3330,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -2906,7 +2873,7 @@
       "assists_made": null
     },
     {
-      "id": 3332,
+      "id": 3331,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -2924,7 +2891,7 @@
       "assists_made": null
     },
     {
-      "id": 3333,
+      "id": 3332,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Barnet",
@@ -2942,7 +2909,7 @@
       "assists_made": null
     },
     {
-      "id": 3334,
+      "id": 3333,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "West Ham United",
@@ -2960,7 +2927,7 @@
       "assists_made": null
     },
     {
-      "id": 3335,
+      "id": 3334,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -2978,7 +2945,7 @@
       "assists_made": null
     },
     {
-      "id": 3336,
+      "id": 3335,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Burnley",
@@ -2996,7 +2963,7 @@
       "assists_made": null
     },
     {
-      "id": 3337,
+      "id": 3336,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Millwall",
@@ -3014,7 +2981,7 @@
       "assists_made": null
     },
     {
-      "id": 3338,
+      "id": 3337,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "St Kevin's Boys",
@@ -3032,7 +2999,7 @@
       "assists_made": null
     },
     {
-      "id": 3339,
+      "id": 3338,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Viitorul Mihai Georgescu",
@@ -3050,7 +3017,7 @@
       "assists_made": null
     },
     {
-      "id": 3340,
+      "id": 3339,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -3068,7 +3035,7 @@
       "assists_made": null
     },
     {
-      "id": 3341,
+      "id": 3340,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Arsenal",
@@ -3086,7 +3053,7 @@
       "assists_made": null
     },
     {
-      "id": 3342,
+      "id": 3341,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -3104,7 +3071,7 @@
       "assists_made": null
     },
     {
-      "id": 3343,
+      "id": 3342,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Watford",
@@ -3122,7 +3089,7 @@
       "assists_made": null
     },
     {
-      "id": 3344,
+      "id": 3343,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": null,
@@ -3140,7 +3107,7 @@
       "assists_made": null
     },
     {
-      "id": 3345,
+      "id": 3344,
       "club_code": "BOU",
       "current_club": "Bournemouth",
       "previous_club": "Eastleigh",
@@ -3377,6 +3344,24 @@
       "id": 3413,
       "club_code": "BUR",
       "current_club": "Burnley",
+      "previous_club": "Middlesbrough",
+      "first_name": "Ben",
+      "middle_name": null,
+      "last_name": "Gibson",
+      "jersey_name": "Gibson",
+      "jersey_number": 14,
+      "nationality": "England",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3414,
+      "club_code": "BUR",
+      "current_club": "Burnley",
       "previous_club": "Anderlecht",
       "first_name": "Steven",
       "middle_name": null,
@@ -3392,7 +3377,7 @@
       "assists_made": null
     },
     {
-      "id": 3414,
+      "id": 3415,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Aston Villa",
@@ -3410,7 +3395,7 @@
       "assists_made": null
     },
     {
-      "id": 3415,
+      "id": 3416,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Stoke City",
@@ -3428,7 +3413,7 @@
       "assists_made": null
     },
     {
-      "id": 3416,
+      "id": 3417,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Manchester City",
@@ -3446,7 +3431,7 @@
       "assists_made": null
     },
     {
-      "id": 3417,
+      "id": 3418,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Huddersfield Town",
@@ -3464,7 +3449,7 @@
       "assists_made": null
     },
     {
-      "id": 3418,
+      "id": 3419,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Preston North End",
@@ -3482,7 +3467,7 @@
       "assists_made": null
     },
     {
-      "id": 3419,
+      "id": 3420,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Wolverhampton Wanderers",
@@ -3500,7 +3485,7 @@
       "assists_made": null
     },
     {
-      "id": 3420,
+      "id": 3421,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Everton",
@@ -3518,7 +3503,7 @@
       "assists_made": null
     },
     {
-      "id": 3421,
+      "id": 3422,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Stoke City",
@@ -3536,7 +3521,7 @@
       "assists_made": null
     },
     {
-      "id": 3422,
+      "id": 3423,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Cork City",
@@ -3554,7 +3539,7 @@
       "assists_made": null
     },
     {
-      "id": 3423,
+      "id": 3424,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Charlton Athletic",
@@ -3572,7 +3557,7 @@
       "assists_made": null
     },
     {
-      "id": 3424,
+      "id": 3425,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Birmingham City",
@@ -3590,7 +3575,7 @@
       "assists_made": null
     },
     {
-      "id": 3425,
+      "id": 3426,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": null,
@@ -3608,7 +3593,7 @@
       "assists_made": null
     },
     {
-      "id": 3426,
+      "id": 3427,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "AFC Wimbledon",
@@ -3626,7 +3611,7 @@
       "assists_made": null
     },
     {
-      "id": 3427,
+      "id": 3428,
       "club_code": "BUR",
       "current_club": "Burnley",
       "previous_club": "Brisbane Athletic",
@@ -4645,6 +4630,456 @@
       "jersey_number": 30,
       "nationality": "Brazil",
       "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3701,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Dundee",
+      "first_name": "Julián",
+      "middle_name": null,
+      "last_name": "Speroni",
+      "jersey_name": "Speroni",
+      "jersey_number": 1,
+      "nationality": "Argentina",
+      "position": "Goalkeeper",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3702,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Portsmouth",
+      "first_name": "Joel",
+      "middle_name": null,
+      "last_name": "Ward",
+      "jersey_name": "Ward",
+      "jersey_number": 2,
+      "nationality": "England",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3703,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Sunderland",
+      "first_name": "Patrick",
+      "middle_name": null,
+      "last_name": "van Aanholt",
+      "jersey_name": "van Aanholt",
+      "jersey_number": 3,
+      "nationality": "Netherlands",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3704,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Olympiakos",
+      "first_name": "Luka",
+      "middle_name": null,
+      "last_name": "Milivojević",
+      "jersey_name": "Milivojević",
+      "jersey_number": 4,
+      "nationality": "Serbia",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3705,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "West Ham United",
+      "first_name": "James",
+      "middle_name": null,
+      "last_name": "Tomkins",
+      "jersey_name": "Tomkins",
+      "jersey_number": 5,
+      "nationality": "England",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3706,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Blackburn Rovers",
+      "first_name": "Scott",
+      "middle_name": null,
+      "last_name": "Dann",
+      "jersey_name": "Dann",
+      "jersey_number": 6,
+      "nationality": "England",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3707,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Schalke",
+      "first_name": "Max",
+      "middle_name": null,
+      "last_name": "Meyer",
+      "jersey_name": "Meyer",
+      "jersey_number": 7,
+      "nationality": "Germany",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3708,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "West Ham United",
+      "first_name": "Cheikhou",
+      "middle_name": null,
+      "last_name": "Kouyaté",
+      "jersey_name": "Kouyaté",
+      "jersey_number": 8,
+      "nationality": "Senegal",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3709,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "FC Midtjylland",
+      "first_name": "Alexander",
+      "middle_name": null,
+      "last_name": "Sørloth",
+      "jersey_name": "Sørloth",
+      "jersey_number": 9,
+      "nationality": "Norway",
+      "position": "Forward",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3710,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Newcastle United",
+      "first_name": "Andros",
+      "middle_name": null,
+      "last_name": "Townsend",
+      "jersey_name": "Townsend",
+      "jersey_number": 10,
+      "nationality": "England",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3711,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Manchester United",
+      "first_name": "Wilfried",
+      "middle_name": null,
+      "last_name": "Zaha",
+      "jersey_name": "Zaha",
+      "jersey_number": 11,
+      "nationality": "Ivory Coast",
+      "position": "Forward",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3712,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Liverpool",
+      "first_name": "Mamadou",
+      "middle_name": null,
+      "last_name": "Sakho",
+      "jersey_name": "Sakho",
+      "jersey_number": 12,
+      "nationality": "France",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3713,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Wolverhampton Wanderers",
+      "first_name": "Wayne",
+      "middle_name": null,
+      "last_name": "Hennessey",
+      "jersey_name": "Hennessey",
+      "jersey_number": 13,
+      "nationality": "Wales",
+      "position": "Goalkeeper",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3714,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Leicester City",
+      "first_name": "Jeffrey",
+      "middle_name": null,
+      "last_name": "Schlupp",
+      "jersey_name": "Schlupp",
+      "jersey_number": 15,
+      "nationality": "Ghana",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3715,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Liverpool",
+      "first_name": "Christian",
+      "middle_name": null,
+      "last_name": "Benteke",
+      "jersey_name": "Benteke",
+      "jersey_number": 17,
+      "nationality": "Belgium",
+      "position": "Forward",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3716,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Wigan Athletic",
+      "first_name": "James",
+      "middle_name": null,
+      "last_name": "McArthur",
+      "jersey_name": "McArthur",
+      "jersey_number": 18,
+      "nationality": "Scotland",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3717,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": null,
+      "first_name": "Jonathan",
+      "middle_name": null,
+      "last_name": "Williams",
+      "jersey_name": "Williams",
+      "jersey_number": 20,
+      "nationality": "Wales",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3718,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Sunderland",
+      "first_name": "Connor",
+      "middle_name": null,
+      "last_name": "Wickham",
+      "jersey_name": "Wickham",
+      "jersey_number": 21,
+      "nationality": "England",
+      "position": "Forward",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3719,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Lille",
+      "first_name": "Pape",
+      "middle_name": "N'Diaye",
+      "last_name": "Souaré",
+      "jersey_name": "Souaré",
+      "jersey_number": 23,
+      "nationality": "Senegal",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3720,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": null,
+      "first_name": "Sullay",
+      "middle_name": null,
+      "last_name": "Kaikai",
+      "jersey_name": "Kaikai",
+      "jersey_number": 25,
+      "nationality": "England",
+      "position": "Forward",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3721,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": null,
+      "first_name": "Aaron",
+      "middle_name": null,
+      "last_name": "Wan-Bissaka",
+      "jersey_name": "Wan-Bissaka",
+      "jersey_number": 29,
+      "nationality": "England",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3722,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Getafe",
+      "first_name": "Vicente",
+      "middle_name": null,
+      "last_name": "Guaita",
+      "jersey_name": "Guaita",
+      "jersey_number": 31,
+      "nationality": "Spain",
+      "position": "Goalkeeper",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3723,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Liverpool",
+      "first_name": "Martin",
+      "middle_name": null,
+      "last_name": "Kelly",
+      "jersey_name": "Kelly",
+      "jersey_number": 34,
+      "nationality": "England",
+      "position": "Defender",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3724,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Southampton",
+      "first_name": "Jason",
+      "middle_name": null,
+      "last_name": "Puncheon",
+      "jersey_name": "Puncheon",
+      "jersey_number": 42,
+      "nationality": "England",
+      "position": "Midfielder",
+      "appearances": null,
+      "substitute_appearances": null,
+      "goals_scored": null,
+      "own_goals": null,
+      "assists_made": null
+    },
+    {
+      "id": 3725,
+      "club_code": "CRY",
+      "current_club": "Crystal Palace",
+      "previous_club": "Ajax",
+      "first_name": "Jaïro",
+      "middle_name": null,
+      "last_name": "Riedewald",
+      "jersey_name": "Riedewald",
+      "jersey_number": 44,
+      "nationality": "Netherlands",
+      "position": "Midfielder",
       "appearances": null,
       "substitute_appearances": null,
       "goals_scored": null,

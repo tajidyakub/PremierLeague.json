@@ -59,10 +59,11 @@ The following table contains names of variables, data types and their descriptio
 
 #### season_fixtures
 
-| Property Name           |      Data Type     |       Description       |
-| ----------------------- | :----------------: | :---------------------: |
-| `matchday`              |      _Integer_     |  Match Day / Match Week |
-| [`fixtures`](#fixtures) | _Array of Objects_ | Detail of every Fixture |
+| Property Name           |      Data Type     |                     Description                     |
+| ----------------------- | :----------------: | :-------------------------------------------------: |
+| `matchday`              |      _Integer_     |                Match Day / Match Week               |
+| `upcoming`              |      _Boolean_     | TRUE for upcoming round of matches, FALSE otherwise |
+| [`fixtures`](#fixtures) | _Array of Objects_ |               Detail of every Fixture               |
 
 #### players
 
