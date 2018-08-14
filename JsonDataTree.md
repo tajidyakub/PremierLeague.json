@@ -59,11 +59,14 @@ The following table contains names of variables, data types and their descriptio
 
 #### season_fixtures
 
-| Property Name           |      Data Type     |                     Description                     |
-| ----------------------- | :----------------: | :-------------------------------------------------: |
-| `matchday`              |      _Integer_     |                Match Day / Match Week               |
-| `upcoming`              |      _Boolean_     | TRUE for upcoming round of matches, FALSE otherwise |
-| [`fixtures`](#fixtures) | _Array of Objects_ |               Detail of every Fixture               |
+| Property Name             |      Data Type     |                     Description                     |
+| ------------------------- | :----------------: | :-------------------------------------------------: |
+| `matchday`                |      _Integer_     |                Match Day / Match Week               |
+| `upcoming`                |      _Boolean_     | TRUE for upcoming round of matches, FALSE otherwise |
+| `total_goals_scored`      |      _Integer_     |      Total goals scored in the given matchweek      |
+| `total_home_goals_scored` |      _Integer_     |    Total home goals scored in the given matchweek   |
+| `total_away_goals_scored` |      _Integer_     |    Total away goals scored in the given matchweek   |
+| [`fixtures`](#fixtures)   | _Array of Objects_ |               Detail of every Fixture               |
 
 #### players
 
