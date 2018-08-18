@@ -23,6 +23,7 @@ The following table contains names of variables, data types and their descriptio
 
 | Property Name         |      Data Type     |                        Description                       |
 | --------------------- | :----------------: | :------------------------------------------------------: |
+| `id`                  |      _Integer_     |                  Unique ID for each club                 |
 | `name`                |      _String_      |                           Name                           |
 | `code`                |      _String_      |                     Three letter code                    |
 | `stadium`             |      _String_      |                      Name of Stadium                     |

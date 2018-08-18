@@ -18,31 +18,13 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 ## Task Lists
 
 -   [ ] Complete Fixtures of the season
--   [ ] Complete Players data of all Clubs
+-   [x] Complete Players data of all Clubs
 
 ### Matchday Fixtures
 
 -   [x] Round 1 (_Results Updated_)
 -   [x] Round 2
 -   [x] Round 3
-
-### Players Data
-
--   [x] Arsenal
--   [x] Huddersfield Town
--   [x] Southampton
--   [x] Bournemouth
--   [x] Burnley
--   [x] Everton
--   [x] Brighton and Hove Albion
--   [x] Crystal Palace
--   [x] Chelsea
--   [x] Leicester City
--   [x] Cardiff City
--   [x] Fulham
--   [x] Liverpool
--   [x] Manchester City
--   [x] Manchester United
 
 ### Flat Premier League Clubs' Logos
 
@@ -57,6 +39,7 @@ A very simplistic approach has been maintained for the creation of logos of part
 -   [x] Crystal Palace
 -   [x] Everton
 -   [x] Fulham
+-   [x] Huddersfield Town
 
 ### Contributions
 
