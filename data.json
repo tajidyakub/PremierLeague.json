@@ -12448,10 +12448,106 @@
       "assist_provided_to_jersey_number": 20
     }
   ],
-  "cleen_sheets": [{
-
-  }],
-  "own_goals":[{
-    
-    }]
+  "clean_sheets": [
+    {
+      "id": 3324,
+      "club": "BOU",
+      "first_name": "Asmir",
+      "middle_name": null,
+      "last_name": "Begović",
+      "jersey_name": "Begović",
+      "jersey_number": 27,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["CAR-(H)"]
+    },
+    {
+      "id": 4725,
+      "club": "WAT",
+      "first_name": "Ben",
+      "middle_name": null,
+      "last_name": "Foster",
+      "jersey_name": "Foster",
+      "jersey_number": 26,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["BHA-(H)"]
+    },
+    {
+      "id": 3801,
+      "club": "CHE",
+      "first_name": "Kepa",
+      "middle_name": null,
+      "last_name": "Arrizabalaga",
+      "jersey_name": "Arrizabalaga",
+      "jersey_number": 1,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["HUD-(A)"]
+    },
+    {
+      "id": 3713,
+      "club": "CRY",
+      "first_name": "Wayne",
+      "middle_name": null,
+      "last_name": "Hennessey",
+      "jersey_name": "Hennessey",
+      "jersey_number": 13,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["FUL-(A)"]
+    },
+    {
+      "id": 4213,
+      "club": "LIV",
+      "first_name": "Alisson",
+      "middle_name": null,
+      "last_name": "Becker",
+      "jersey_name": "A.Becker",
+      "jersey_number": 13,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["WHU-(H)"]
+    },
+    {
+      "id": 3201,
+      "club": "SOU",
+      "first_name": "Alex",
+      "middle_name": null,
+      "last_name": "McCarthy",
+      "jersey_name": "McCarthy",
+      "jersey_number": 1,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["BUR-(H)"]
+    },
+    {
+      "id": 3417,
+      "club": "BUR",
+      "first_name": "Joe",
+      "middle_name": null,
+      "last_name": "Hart",
+      "jersey_name": "Hart",
+      "jersey_number": 20,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["SOU-(A)"]
+    },
+    {
+      "id": 4321,
+      "club": "MCI",
+      "first_name": "Ederson",
+      "middle_name": "Santana",
+      "last_name": "de Moraes",
+      "jersey_name": "Ederson",
+      "jersey_number": 31,
+      "number_of_clean_sheets": 1,
+      "oppositions":  ["SOU-(A)"]
+    }
+],
+  "own_goals": [
+    {
+      "id": 1,
+      "home_team": "LEI",
+      "away_team": "WOL",
+      "against": "LEI",
+      "scorer_id": 4901,
+      "scorer_name": "Doherty",
+      "scorer_jersey_number": 2,
+      "scoring_minute": "29"
+    }
+  ]
 }
