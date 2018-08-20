@@ -1,6 +1,6 @@
 # PremierLeague.json
 
-Premier League data in JSON format.
+Premier League data in JSON (JavaScript Object Notation) format.
 
 The file **data.json** contains the Premier League data for the season 2018-19.
 
@@ -8,27 +8,30 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 
 -   [x] August 2018 - May 2019
 
-### Data includes:
+## Data includes:
 
 -   Fixtures and Results
--   Clubs' Manager and Players
+-   Clubs Details and Standings
+-   Complete Squads
 -   Goals Scored
--   Assists Made
+-   Assists Provided
+-   Clean Sheets
+-   Own Goals
 
 ## Task Lists
 
 -   [ ] Complete Fixtures of the season
 -   [x] Complete Players data of all Clubs
 
-### Matchday Fixtures
+## Matchday Fixtures
 
 -   [x] Round 1 (_Results Updated_)
--   [x] Round 2
+-   [x] Round 2 (_Results Updated_)
 -   [x] Round 3
 
-### Flat Premier League Clubs' Logos
+## Premier League Clubs' Logos
 
-A very simplistic approach has been maintained for the creation of logos of participating clubs using Inkscape Vector Graphics Editor. All files are in optimized SVG format suitable for direct inclusion in web development.
+A very simplistic approach has been maintained for the creation of logos (badges) of participating clubs using Inkscape Vector Graphics Editor. All files are in optimized SVG format suitable for direct inclusion in web pages.
 
 -   [x] Arsenal
 -   [x] Bournemouth
@@ -50,7 +53,7 @@ All times are in Local UK times UTC +1 BST / UTC +0 GMT.
 
 All information related to players and managers shall be obtained from [FootballSquads](http://www.footballsquads.co.uk/) as per availability.
 
-### Fetch data.json with proper Content-Type header
+### Fetch Contents of _data.json_ File
 
 Use this url to fetch latest commit on data.json in the proper JSON Content-Type header:
 <https://gitcdn.xyz/repo/drraq/PremierLeague.json/master/data.json>
