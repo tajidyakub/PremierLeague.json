@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 89.997788 89.999245"
-   height="25.4mm"
-   width="25.4mm"
+   viewBox="0 0 89.997795 89.999252"
+   height="25.400002mm"
+   width="25.400002mm"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="chelsea.svg">
@@ -32,8 +32,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="2.919455"
-     inkscape:cx="189.93766"
-     inkscape:cy="1.0600581"
+     inkscape:cx="56.351085"
+     inkscape:cy="-24.972196"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -64,7 +64,7 @@
   </metadata>
   <g
      id="layer1"
-     transform="matrix(0.81994653,0,0,0.81994653,-118.2491,-488.92004)">
+     transform="matrix(0.80157242,0,0,0.80157242,-114.59109,-476.95548)">
     <g
        id="g3599"
        transform="matrix(0.37519,0,0,0.37519,280.78,502.33)">
@@ -212,7 +212,7 @@
   <circle
      style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path3370"
-     cx="44.9991"
-     cy="44.999622"
-     r="44.624622" />
+     cx="44.99889"
+     cy="44.999626"
+     r="43.624634" />
 </svg>

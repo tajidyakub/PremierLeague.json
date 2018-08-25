@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 90.002267 89.999701"
+   viewBox="0 0 90.002274 89.999701"
    height="25.400002mm"
-   width="25.4mm"
+   width="25.400002mm"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="crystal_palace.svg">
@@ -27,9 +27,9 @@
      inkscape:window-height="747"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="6.4888887"
-     inkscape:cx="45"
-     inkscape:cy="45.000001"
+     inkscape:zoom="6.133333"
+     inkscape:cx="79.728263"
+     inkscape:cy="-18.586956"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
   </metadata>
   <g
      id="layer1"
-     transform="matrix(0.92851473,0,0,0.92851473,89.360164,-613.39516)">
+     transform="matrix(0.90770754,0,0,0.90770754,88.366116,-598.62558)">
     <g
        id="g3774"
        transform="matrix(0.2723,0,0,0.2723,-38.764,677.73)">
@@ -108,37 +108,37 @@
       </g>
       <g
          id="g18"
-         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.2692472">
+         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.27541912">
         <path
            id="path3748"
            d="m -48.835,208.16 c 1.1227,2.7676 2.7868,4.8584 4.7706,6.5495 3.9695,-5.4785 9.1112,-9.3304 14.878,-11.239 -6.7385,-2.2164 -13.34,-1.6921 -19.649,4.6898 z"
            inkscape:connector-curvature="0"
-           style="stroke-width:0.2692472" />
+           style="stroke-width:0.27541912" />
         <path
            id="path3750"
            d="m -42.932,215.84 c 4.9794,-5.6997 10.393,-10.593 18.355,-10.754 2.5435,1.8069 4.4599,4.3977 6.1452,7.2772 -7.9198,0.65969 -12.129,4.6175 -16.252,8.6518 -3.1022,-1.2543 -5.791,-3.0598 -8.2475,-5.1749 z"
            inkscape:connector-curvature="0"
-           style="stroke-width:0.2692472" />
+           style="stroke-width:0.27541912" />
         <path
            id="path3752"
            d="m -22.799,215.36 c 1.5232,-1.0221 3.3015,-1.4303 5.2558,-1.3746 2.9494,8.761 0.40435,15.599 -5.2558,21.347 0.56093,-2.7565 1.2171,-5.9079 1.4012,-9.3016 0.18267,-3.3678 -0.0996,-6.9743 -1.4012,-10.67 z"
            inkscape:connector-curvature="0"
-           style="stroke-width:0.2692472" />
+           style="stroke-width:0.27541912" />
         <path
            id="path3754"
            d="m -33.391,222.39 c 2.8406,-3.722 5.9292,-4.9633 8.9752,-6.6304 3.5386,10.742 0.77639,17.607 -4.0429,23.206 -2.6267,0.75663 -4.4274,1.0177 -5.9835,1.132 2.3454,-5.3042 3.0134,-11.112 1.0512,-17.708 z"
            inkscape:connector-curvature="0"
-           style="stroke-width:0.2692472" />
+           style="stroke-width:0.27541912" />
         <path
            id="path3756"
            d="m -53.767,217.38 c 0.4512,-3.0593 1.7345,-5.5639 3.4769,-7.7624 3.8686,6.2576 9.5804,9.8996 15.363,13.18 0.83991,2.7991 1.1109,6.2196 0.9703,8.7327 -8.2759,-0.95907 -17.447,-8.7619 -19.81,-14.15 z"
            inkscape:connector-curvature="0"
-           style="stroke-width:0.2692472" />
+           style="stroke-width:0.27541912" />
         <path
            id="path3758"
            d="m -54.091,221.34 c 1.1095,8.8971 4.9875,16.133 16.818,18.597 1.2927,-1.7266 2.4698,-3.6265 2.9109,-6.6304 -7.2815,-1.5719 -13.956,-5.2248 -19.729,-11.967 z"
            inkscape:connector-curvature="0"
-           style="stroke-width:0.2692472" />
+           style="stroke-width:0.27541912" />
       </g>
     </g>
   </g>
@@ -146,7 +146,7 @@
      style="opacity:1;fill:none;fill-opacity:1;stroke:#0000aa;stroke-width:0.75001895;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path3354"
      cx="45.001133"
-     cy="45.00016"
-     rx="44.626125"
-     ry="44.626129" />
+     cy="44.999847"
+     rx="43.626095"
+     ry="43.626099" />
 </svg>

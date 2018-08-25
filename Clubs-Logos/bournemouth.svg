@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   viewBox="0 0 89.998033 90.000526"
-   height="25.399998mm"
-   width="25.399998mm"
+   viewBox="0 0 89.99804 90.000533"
+   height="25.4mm"
+   width="25.4mm"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="bournemouth.svg">
@@ -32,9 +32,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="6.4888885"
-     inkscape:cx="63.571187"
-     inkscape:cy="44.999989"
+     inkscape:zoom="6.1333339"
+     inkscape:cx="44.999996"
+     inkscape:cy="44.999996"
      inkscape:window-x="0"
      inkscape:window-y="21"
      inkscape:window-maximized="1"
@@ -49,15 +49,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g3489"
-     transform="matrix(0.90772934,0,0,0.90787754,4.2677013,4.0287129)">
+     transform="matrix(0.88738817,0,0,0.88753305,5.1946692,4.9323602)">
     <path
-       style="fill:#550000;stroke:#666666;stroke-width:0.55078334"
+       style="fill:#550000;stroke:#666666;stroke-width:0.56340867"
        inkscape:connector-curvature="0"
        d="m 40.536127,28.524949 c -0.796927,-0.0295 -1.616824,0.237877 -2.321351,0.822749 l -5.827548,4.838163 -5.613698,0 0,3.556112 -1.705847,0 c -0.721348,0 -1.301716,0.581689 -1.301716,1.303068 l 0,1.05634 -0.538011,0 c -0.754893,0 -1.362065,0.60718 -1.362065,1.362065 l 0,1.459196 -2.079879,1.726864 c -1.621103,1.345927 -1.997386,3.846676 -0.843766,5.60972 l 8.722144,13.330918 -1.576291,10.486089 a 66.350594,66.350594 0 0 0 10.863648,11.22094 l 0.531442,0.08005 A 66.350594,66.350594 0 0 0 65.475867,64.112302 L 46.79982,35.566421 a 15.116631,15.116631 0 0 1 -5.923326,-7.011192 c -0.112502,-0.01629 -0.226025,-0.02725 -0.339864,-0.03153 z"
        id="path3576" />
@@ -130,7 +130,7 @@
   <circle
      style="opacity:1;fill:none;fill-opacity:1;stroke:#c83737;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
      id="path3541"
-     cx="44.999016"
-     cy="45.000263"
-     r="44.625263" />
+     cx="44.99902"
+     cy="45.000267"
+     r="43.625263" />
 </svg>
