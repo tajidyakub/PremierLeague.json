@@ -28,8 +28,9 @@ The following table contains names of variables, data types and their descriptio
 | Property Name         |      Data Type     |                        Description                       |
 | --------------------- | :----------------: | :------------------------------------------------------: |
 | `id`                  |      _Integer_     |                  Unique ID for each club                 |
-| `name`                |      _String_      |                           Name                           |
-| `code`                |      _String_      |                     Three letter code                    |
+| `name`                |      _String_      |                     Name of the club                     |
+| `short_name`           |      _String_      |                  Short name for the club                 |
+| `club_code`           |      _String_      |                     Three letter code                    |
 | `stadium`             |      _String_      |                      Name of Stadium                     |
 | `capacity`            |      _Integer_     |                     Stadium capacity                     |
 | `manager`             |      _String_      |                       Manager Name                       |
@@ -132,7 +133,7 @@ The following table contains names of variables, data types and their descriptio
 | Property Name            |      Data Type     |             Description             |
 | ------------------------ | :----------------: | :---------------------------------: |
 | `id`                     |      _Integer_     |  Goalkeeper ID from _players_ array |
-| `club`                   |      _String_      |    Club association of Goalkeeper   |
+| `club_code`              |      _String_      |    Club association of Goalkeeper   |
 | `first_name`             |      _String_      |       Goalkeeper's first name       |
 | `middle_name`            |      _String_      |       Goalkeeper's middle name      |
 | `last_name`              |      _String_      |        Goalkeeper's last name       |
