@@ -30,7 +30,7 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 -   [x] Round 3 (_Results Updated_)
 -   [x] Round 4 (_Results Updated_)
 -   [x] Round 5 (_Results Updated_)
--   [x] Round 6
+-   [x] Round 6 (_Saturday Results Updated_)
 -   [x] Round 7
 -   [x] Round 8
 
@@ -50,6 +50,7 @@ A very simplistic approach has been maintained for the creation of logos (badges
 -   [x] Huddersfield Town
 -   [x] Watford
 -   [x] Wolverhampton Wanderers
+-   [x] Manchester United
 
 ### Contributions
 
