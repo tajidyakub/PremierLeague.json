@@ -59,6 +59,7 @@ A very simplistic approach has been maintained for the creation of logos (badges
 -   [x] Tottenham Hotspur
 -   [x] West Ham United
 -   [x] Liverpool
+-   [x] Newcastle United
 
 ### Contributions
 
