@@ -18,11 +18,6 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 -   Clean Sheets
 -   Own Goals
 
-## Task Lists
-
--   [ ] Complete Fixtures of the season
--   [x] Complete Players data of all Clubs
-
 ## Matchday Fixtures
 
 -   [x] Round 1 (_Results Updated_)
@@ -61,11 +56,6 @@ A very simplistic approach has been maintained for the creation of logos (badges
 -   [x] Liverpool
 -   [x] Newcastle United
 
-### Contributions
-
-The repository is open for contribution.
-All times are in Local UK times UTC +1 BST / UTC +0 GMT.
-
 ### Resource
 
 All information related to players and managers shall be obtained from [FootballSquads](http://www.footballsquads.co.uk/) as per availability.
@@ -77,3 +67,6 @@ Use this url to fetch latest commit on data.json in the proper JSON Content-Type
 
 Use this link for raw data in plain text:
 <https://raw.githubusercontent.com/drraq/PremierLeague.json/master/data.json>
+
+###### Data Application
+The data is used to drive [EPL In View](https://eplinview.com) website.
