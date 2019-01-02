@@ -25,7 +25,7 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 -   [x] October (_Results Updated_)
 -   [x] November (_Results Updated_)
 -   [x] December (_Results Updated_)
--   [x] Round 21 (_Monday Results Updated_)
+-   [x] Round 21 (_Wednesday Results Updated_)
 -   [x] Round 22
 -   [x] Round 23
 -   [x] Round 24
@@ -34,26 +34,7 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 
 A very simplistic approach has been maintained for the creation of logos (badges) of participating clubs using Inkscape Vector Graphics Editor. All files are in optimized SVG format suitable for direct inclusion in web pages.
 
--   [x] Arsenal
--   [x] Bournemouth
--   [x] Brighton & Hove Albion
--   [x] Burnley
--   [x] Cardiff City
--   [x] Chelsea
--   [x] Crystal Palace
--   [x] Everton
--   [x] Fulham
--   [x] Huddersfield Town
--   [x] Watford
--   [x] Wolverhampton Wanderers
--   [x] Manchester United
--   [x] Leicester City
--   [x] Manchester City
--   [x] Southampton
--   [x] Tottenham Hotspur
--   [x] West Ham United
--   [x] Liverpool
--   [x] Newcastle United
+-   [x] All Participating Clubs of 2018-19
 
 ### Resource
 
@@ -67,5 +48,5 @@ Use this url to fetch latest commit on data.json in the proper JSON Content-Type
 Use this link for raw data in plain text:
 <https://raw.githubusercontent.com/drraq/PremierLeague.json/master/data.json>
 
-###### Data Application
+### Data Application
 The data is used to drive [EPL In View](https://eplinview.com) website.
