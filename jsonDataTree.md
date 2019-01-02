@@ -29,13 +29,14 @@ The following table contains names of variables, data types and their descriptio
 | --------------------- | :----------------: | :------------------------------------------------------: |
 | `id`                  |      _Integer_     |                  Unique ID for each club                 |
 | `name`                |      _String_      |                     Name of the club                     |
-| `short_name`           |      _String_      |                  Short name for the club                 |
+| `short_name`          |      _String_      |                  Short name for the club                 |
 | `club_code`           |      _String_      |                     Three letter code                    |
 | `stadium`             |      _String_      |                      Name of Stadium                     |
 | `capacity`            |      _Integer_     |                     Stadium capacity                     |
 | `manager`             |      _String_      |                       Manager Name                       |
 | `manager_nationality` |      _String_      |                    Manager Nationality                   |
 | `position`            |      _Integer_     |               Current Position in the Table              |
+| `last_week_position`  |      _Integer_     |              Last Week Position in the Table             |
 | `games_played`        |      _Integer_     |                    Total games played                    |
 | `home_games_played`   |      _Integer_     |                  Total Home games played                 |
 | `away_games_played`   |      _Integer_     |                  Total Away games played                 |
