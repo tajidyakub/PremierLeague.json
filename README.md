@@ -26,7 +26,7 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 -   [x] November (_Results Updated_)
 -   [x] December (_Results Updated_)
 -   [x] Round 21 (_Results Updated_)
--   [x] Round 22  (_Sunday Results Updated_)
+-   [x] Round 22  (_Results Updated_)
 -   [x] Round 23
 -   [x] Round 24
 
