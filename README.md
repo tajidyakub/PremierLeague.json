@@ -20,15 +20,9 @@ The file **data.json** contains the Premier League data for the season 2018-19.
 
 ## Matchday Fixtures
 
--   [x] August (_Results Updated_)
--   [x] September (_Results Updated_)
--   [x] October (_Results Updated_)
--   [x] November (_Results Updated_)
--   [x] December (_Results Updated_)
--   [x] Round 21 (_Results Updated_)
--   [x] Round 22  (_Results Updated_)
--   [x] Round 23  (_Results Updated_)
--   [x] Round 24  (_Results Updated_)
+-   [x] August - December (_Results Updated_)
+-   [x] January (_Results Updated_)
+-   [x] Round 25
 
 ## Premier League Clubs' Logos
 
@@ -36,17 +30,17 @@ A very simplistic approach has been maintained for the creation of logos (badges
 
 -   [x] All Participating Clubs of 2018-19
 
-### Resource
+## Resource
 
 All information related to players and managers shall be obtained from [FootballSquads](http://www.footballsquads.co.uk/) as per availability.
 
-### Fetch Contents of _data.json_ File
+### Data Application
+The data is used to drive [EPL In View](https://eplinview.com) website.
 
-Use this url to fetch latest commit on data.json in the proper JSON Content-Type header:
+# Fetch Contents of _data.json_ File
+
+Use this url to fetch latest commit on data.json in proper JSON Content-Type header:
 <https://gitcdn.xyz/repo/drraq/PremierLeague.json/master/data.json>
 
 Use this link for raw data in plain text:
 <https://raw.githubusercontent.com/drraq/PremierLeague.json/master/data.json>
-
-### Data Application
-The data is used to drive [EPL In View](https://eplinview.com) website.
